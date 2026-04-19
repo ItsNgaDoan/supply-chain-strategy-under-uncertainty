@@ -36,6 +36,17 @@ The analysis shows that no single supplier dominates across all criteria.
 A multi-sourcing strategy was therefore used to balance cost efficiency, capacity, and operational risk.
 
 
+## Ordering Strategy
+
+A staged ordering approach was used to manage uncertainty and supplier risk:
+
+- **Repulo Tailors (Ukraine)** – primary offshore supplier offering low unit cost and high production capacity  
+- **Posh Garments (Bangladesh)** – secondary supplier providing flexible capacity for demand adjustments  
+- **Local suppliers (New Zealand)** – used for fast turnaround and last-mile demand fulfilment  
+
+Orders were placed progressively as demand uncertainty reduced, improving responsiveness while limiting overstock risk.
+
+
 ## Demand Uncertainty
 
 Demand was simulated across 30 scenarios to reflect uncertainty over the planning horizon.
@@ -52,17 +63,6 @@ The strategy was evaluated across multiple demand scenarios.
 ![Profit Distribution](./images/profit-distribution.png)
 
 Results show consistent profitability across all scenarios, indicating strong financial resilience despite demand uncertainty.
-
-
-## Ordering Strategy
-
-A staged ordering approach was used to manage uncertainty and supplier risk:
-
-- **Repulo Tailors (Ukraine)** – primary offshore supplier offering low unit cost and high production capacity  
-- **Posh Garments (Bangladesh)** – secondary supplier providing flexible capacity for demand adjustments  
-- **Local suppliers (New Zealand)** – used for fast turnaround and last-mile demand fulfilment  
-
-Orders were placed progressively as demand uncertainty reduced, improving responsiveness while limiting overstock risk.
 
 
 ## Risk & Sustainability
