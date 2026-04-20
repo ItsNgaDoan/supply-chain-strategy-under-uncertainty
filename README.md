@@ -92,4 +92,9 @@ This project was completed as part of a group case study. My contribution focuse
 - scenario simulation and analysis  
 - development of ordering strategy and cost–profit assessment  
 - data visualisation and presentation design  
+
  
+## Academic Use Notice
+
+This project was completed as part of a group assignment at the University of Auckland and is shared for educational and portfolio purposes only.
+The work presented reflects collaborative academic effort. Unauthorised use, reproduction, or redistribution may violate academic integrity policies.
